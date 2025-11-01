@@ -107,6 +107,16 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 \- Created a \*\*Number Guessing Game\*\* that gives hints and limits attempts.
 
 
+\## 🗓️ Day 13 – Debugging and Error Handling
+
+\- Learned different types of Python errors and how to read error messages.
+
+\- Practiced using **try**, **except**, **else**, and **finally** blocks.
+ 
+\- Used the **raise** keyword to create custom error messages.
+ 
+\- Debugged previous projects and improved code reliability.
+
 
 ---
 
