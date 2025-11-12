@@ -118,7 +118,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 \- Debugged previous projects and improved code reliability.
 
 
-## 🗓️ Day 14 – Higher or Lower Game Project
+\## 🗓️ Day 14 – Higher or Lower Game Project
 
 \- Revised how to use functions that return values.
   
