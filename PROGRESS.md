@@ -118,6 +118,17 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 \- Debugged previous projects and improved code reliability.
 
 
+## 🗓️ Day 14 – Higher or Lower Game Project
+
+\- Revised how to use functions that return values.
+  
+\- Practiced working with **imported data** and formatting dictionaries for readability.
+  
+\- Built the **Higher or Lower Game**, where the player guesses which celebrity has more followers.
+  
+\- Applied concepts like scope, randomization, and modular programming.
+
+
 ---
 
 
