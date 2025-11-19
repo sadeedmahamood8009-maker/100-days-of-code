@@ -129,6 +129,15 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 \- Applied concepts like scope, randomization, and modular programming.
 
 
+/## 🗓️ Day 15 – Local Development Environment & Coffee Machine Project
+
+/-Learned how Python modules work and how to structure multi-file programs.
+
+/-Practiced importing data, functions, and constants from separate files.
+
+/-Built the Coffee Machine Program, simulating resources, coin insertion, and drink processing.
+
+
 ---
 
 
