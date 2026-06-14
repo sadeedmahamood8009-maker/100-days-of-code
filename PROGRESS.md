@@ -211,6 +211,22 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 
 \- Strengthened Object-Oriented Programming skills through a multi-file project.
 
+
+## 🗓️ Day 22 – Pong Game
+
+\- Built the classic Pong Game using Python's turtle module.
+
+\- Implemented paddle controls using keyboard event listeners.
+
+\- Created ball movement and bounce mechanics.
+
+\- Added collision detection between the ball, paddles, and walls.
+
+\- Developed a scoreboard to track player scores.
+
+\- Strengthened Object-Oriented Programming skills through a multi-file game project.
+
+
 ---
 
 
